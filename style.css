@@ -1,1 +1,29 @@
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    margin: auto;
+    border-style: dashed;
+    
+}
+
+h1 {
+ font-family:'Courier New', Courier, monospace;
+ border-style: dashed;
+ 
+}
+
+body {
+ text-align: center;
+ color: white;
+ background-color: black;
+}
+
+p {
+ border-style: dashed;
+ color: white;
+ font-family: 'Courier New', Courier, monospace;
+ 
+}
+
+
+
 
