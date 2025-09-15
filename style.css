@@ -18,11 +18,19 @@ body {
 }
 
 p {
- border-style: dashed;
+ border-style:groove;
  color: white;
  font-family: 'Courier New', Courier, monospace;
  
 }
+
+ul {
+ border-style: dashed;
+ border-color: darkseagreen;
+ background-color: darkgreen;
+ font-family: 'Courier New', Courier, monospace;
+}
+
 
 
 
